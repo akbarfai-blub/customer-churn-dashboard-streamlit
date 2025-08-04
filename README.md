@@ -4,9 +4,15 @@ Sebuah dashboard interaktif yang dibangun dengan Streamlit untuk menganalisis se
 
 ## 🚀 Demo Aplikasi
 
-**[Link ke Aplikasi Live]**
+🔗 **[Customer Churn Dashboard - Live Demo](https://customer-churn-dashboard-app-p3ecfvqtsr5dxwpebs2laf.streamlit.app/)**
 
-![Screenshot Dashboard](URL_SCREENSHOT_DASHBOARDMU_DI_SINI)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80d71cda-edaa-4491-8171-74c88660a684" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d80ca84a-1dde-443b-9884-b2ab0d01c4df" width="80%">
+</p>
 
 ## 📂 Struktur Proyek
 
