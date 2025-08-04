@@ -4,7 +4,6 @@ Sebuah dashboard interaktif yang dibangun dengan Streamlit untuk menganalisis se
 
 ## 🚀 Demo Aplikasi
 
-_(Setelah di-deploy, letakkan link aplikasi Streamlit-mu yang sudah live di sini!)_
 **[Link ke Aplikasi Live]**
 
 ![Screenshot Dashboard](URL_SCREENSHOT_DASHBOARDMU_DI_SINI)
